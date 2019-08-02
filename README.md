@@ -11,7 +11,8 @@ Unzip it;
 Close Xcode;
 Copy and paste unziped folder by path: "/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/DeviceSupport/" 
 
-hierarchy like this:
+<p align="center">hierarchy like this:</p>
+
 ![alt text](https://raw.githubusercontent.com/filsv/watchOSDeviceSupport/master/Screen%20Shot%202019-08-02%20at%2015.05.08.png)
 
 Reopen Xcode;
