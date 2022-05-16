@@ -1,6 +1,7 @@
 # watchOSDeviceSupport
 
 Xcode watchOS DeviceSupport files (2.0 - 8.5)
+[[iOS](https://github.com/filsv/iPhoneOSDeviceSupport) | [tvOS](https://github.com/filsv/TVOSDeviceSupport)];
 
 **Most recent releases:**</br>
 
