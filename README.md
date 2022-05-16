@@ -8,7 +8,7 @@ Xcode watchOS DeviceSupport files (2.0 - 8.5)
 **watchOS 8.3** - [Download](https://github.com/filsv/watchOSDeviceSupport/raw/master/8.3.zip) </br>
 **watchOS 8.0** - [Download](https://github.com/filsv/watchOSDeviceSupport/raw/master/8.0.zip) </br>
 
-**WatchOS 7+**
+**WatchOS 7+**</br>
 **watchOS 7.4** - [Download](https://github.com/filsv/watchOSDeviceSupport/raw/master/7.4.zip) </br>
 **watchOS 7.3** - [Download](https://github.com/filsv/watchOSDeviceSupport/raw/master/7.3.zip) </br>
 **watchOS 7.2** - [Download](https://github.com/filsv/watchOSDeviceSupport/raw/master/7.2.zip) </br>
