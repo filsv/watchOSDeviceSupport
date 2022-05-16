@@ -18,7 +18,7 @@ Xcode watchOS DeviceSupport files (2.0 - 8.5)
 **watchOS 6.1** - [Download](https://github.com/filsv/watchOSDeviceSupport/raw/master/6.1.zip) </br>
 **watchOS 6.0** - [Download](https://github.com/filsv/watchOSDeviceSupport/raw/master/6.0.zip)
 
-Device Support files for Xcode, from watchOS 2.0, up to 7.3
+Device Support files for Xcode, from watchOS 2.0, up to 8.5.
 
 How to:
 
