@@ -42,3 +42,5 @@ Thank You.
 
 **⚠️ Issues & How to fix them:**</br>
 If you getting alert about downloading support files for WatchOS and after it's downloaded you getting error similar to this: "This scheme builds an embedded Apple Watch app. watchOS 9.1 must be installed in order to run the scheme.": Simply open "Xcode -> Settings... -> Platforms" (and delete here duplicates that marked with red);
+Should look like this after clearnup:</br>
+![alt text](https://github.com/filsv/watchOSDeviceSupport/raw/master/Screenshot%202023-04-23%20at%2019.09.21.png)
