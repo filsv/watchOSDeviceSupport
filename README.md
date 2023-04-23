@@ -38,3 +38,7 @@ Copy and paste unziped folder by path: "/Applications/Xcode.app/Contents/Develop
 
 Reopen Xcode;
 Thank You.
+
+
+**⚠️ Issues & How to fix them:**</br>
+If you getting alert about downloading support files for WatchOS and after it's downloaded you getting error similar to this: "This scheme builds an embedded Apple Watch app. watchOS 9.1 must be installed in order to run the scheme.": Simply open "Xcode -> Settings... -> Platforms" (and delete here duplicates that marked with red);
