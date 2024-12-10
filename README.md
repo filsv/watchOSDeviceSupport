@@ -1,6 +1,6 @@
 # watchOSDeviceSupport
 
-Xcode watchOS DeviceSupport files (2.0 - 9.4)
+Xcode watchOS DeviceSupport files (2.0 - 9.6)
 [[iOS](https://github.com/filsv/iPhoneOSDeviceSupport) | [tvOS](https://github.com/filsv/TVOSDeviceSupport)];
 
 # Most recent:</br>
@@ -24,7 +24,7 @@ Xcode watchOS DeviceSupport files (2.0 - 9.4)
 **watchOS 6.1** - [Download](https://github.com/filsv/watchOSDeviceSupport/raw/master/6.1.zip) </br>
 **watchOS 6.0** - [Download](https://github.com/filsv/watchOSDeviceSupport/raw/master/6.0.zip)
 
-Device Support files for Xcode, from watchOS 2.0, up to watchOS 9.4.
+Device Support files for Xcode, from watchOS 2.0, up to watchOS 9.6.
 
 How to:
 
